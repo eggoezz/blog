@@ -8,11 +8,11 @@
 # Site settings
 title: Blog's
 owner: eggoez
-email: eggoez@teknik.io
+email: eg@goez.my.id
 description: > # this means to ignore newlines until "baseurl:"
   Everything will be changed!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://eggoez.github.io" # the base hostname & protocol for your site
+url: "https://eggoezz.github.io" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
 twitter_username: eggoez
 github_username:  eggoez
